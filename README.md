@@ -1,4 +1,4 @@
-![Uploading 스크린샷 2026-08-24 150435.png…]()
+<img width="1280" height="626" alt="스크린샷 2026-08-24 150435" src="https://github.com/user-attachments/assets/e9af12dc-ab57-42c3-ae5f-b65eaa07269e" />
 # 🎓 SMU Student AI Agent
 
 > **RAG · Text2SQL · LangGraph 기반 상명대학교 학생 맞춤형 AI 도우미**
