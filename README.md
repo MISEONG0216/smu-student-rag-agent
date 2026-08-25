@@ -1,3 +1,4 @@
+![Uploading 스크린샷 2026-08-24 150435.png…]()
 # 🎓 SMU Student AI Agent
 
 > **RAG · Text2SQL · LangGraph 기반 상명대학교 학생 맞춤형 AI 도우미**
