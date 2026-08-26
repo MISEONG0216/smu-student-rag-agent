@@ -85,7 +85,9 @@ $env:PYTHONUTF8=1; uv run langgraph dev --no-reload --allow-blocking
 PYTHONUTF8=1 uv run langgraph dev --no-reload --allow-blocking
 ```
 
-브라우저에서 `http://127.0.0.1:2024` 자동 열림📈 주식 정보 웹사이트 구축 에이전트 (Stock Info Agent)
+브라우저에서 `http://127.0.0.1:2024` 자동 열림
+
+📈 주식 정보 웹사이트 구축 에이전트 (Stock Info Agent)
 이 프로젝트는 사용자가 종목 코드를 입력하면 실시간 주가, 과거 추이, 재무 지표, 관련 뉴스를 수집하여 주식 정보 웹사이트를 구축해 주는 LLM 기반 에이전트를 만드는 과정입니다.
 
 📌 1. 프로젝트 핵심 내용
